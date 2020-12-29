@@ -1,0 +1,26 @@
+body {
+  background-color: brown;
+}
+.app {
+  width: 30%;
+  padding: 1rem 1rem;
+}
+.app .content {
+  padding: 1rem;
+  background-color: white;
+  border: 1px solid #000;
+}
+h1 {
+  background-color: brown;
+  text-align: center;
+  color: white;
+}
+.result {
+  text-align: center;
+}
+.btn {
+  margin-top: 1rem;
+  margin-left: 33%;
+  padding: 0.5rem 3rem;
+  margin-bottom: 1rem;
+}
